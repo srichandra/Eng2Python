@@ -10,7 +10,7 @@
 
 We have used the same architecture from the Attention is all you need paper and discussed in the class
 
-#Loss function
+# Loss function
 
 We have cross entropy loss function
 
