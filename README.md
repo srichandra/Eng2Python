@@ -1,3 +1,12 @@
+This is team submission from:
+
+Srichandra Chilappagari email: ch.srichandra@gmail.com
+
+Rishubh Khurana email: rishubhkhurana@gmail.com
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 EnglishToPython_Final.ipynb is the main code notebook which has all steps from data cleaning, model training, testing. 
 
 https://drive.google.com/file/d/1DxHGSRonfYqh3lc3nYkjF4IyQvpG0Mux/view?usp=sharing has the final model
