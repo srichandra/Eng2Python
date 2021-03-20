@@ -1,3 +1,11 @@
+EnglishToPython_Final.ipynb is the main code notebook which has all steps from data cleaning, model training, testing. 
+
+https://drive.google.com/file/d/1DxHGSRonfYqh3lc3nYkjF4IyQvpG0Mux/view?usp=sharing has the final model
+
+Pythoncode_GLOVE notebook is the code notebook for training glove embeddings for python
+https://drive.google.com/file/d/1DxHGSRonfYqh3lc3nYkjF4IyQvpG0Mux/view?usp=sharing has the glove model
+
+
 # Data Cleaning
 
 1. Dataset consists of english sentence as a comment followed by python code corresponding to the sentence. 
@@ -21,11 +29,20 @@ We have cross entropy loss function
 
 # Data Extension
 
-No external data has been used
+No external data has been used for model training
 
 # Python Code embedding strategy
 
+1. We have trained 256dim glove embeddings for python. 
+2. We used python code from the given training data along with data from codesearch challenge
+https://github.com/github/CodeSearchNet#data-details
+3. We then trained our own glove model. 
+
+
+
 # Evaluation Metrics
+
+We have BLEU metric as evaluation score. We were able to achieve 42.51% BLEU score on validation data
 
 # 25 Examples
 
