@@ -1,9 +1,3 @@
-This is team submission from:
-
-Srichandra Chilappagari email: ch.srichandra@gmail.com
-
-Rishubh Khurana email: rishubhkhurana@gmail.com
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
